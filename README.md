@@ -32,5 +32,5 @@ Cost 1 = 10 and Cost 2 = 500
 
 ![image](https://user-images.githubusercontent.com/102762042/221452550-0a5a53ba-a6a6-4b81-bdb9-946cc736c143.png)
 
-** The best Model is XGBoost Classifier with 99.6% accuracy and cost of 2950 **
+### The best Model is XGBoost Classifier with 99.6% accuracy and cost of 2950 ###
 
