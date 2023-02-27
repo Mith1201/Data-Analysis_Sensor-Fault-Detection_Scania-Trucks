@@ -26,3 +26,11 @@ Cost 1 = 10 and Cost 2 = 500
 - No low-latency requirement.
 - Interpretability is not important.
 - misclassification leads the unecessary repair costs.
+
+## Final Result
+![image](https://user-images.githubusercontent.com/102762042/221452445-89bd0dfb-1697-4d7e-acc7-ed3a0f67e58a.png)
+
+![image](https://user-images.githubusercontent.com/102762042/221452550-0a5a53ba-a6a6-4b81-bdb9-946cc736c143.png)
+
+** The best Model is XGBoost Classifier with 99.6% accuracy and cost of 2950 **
+
